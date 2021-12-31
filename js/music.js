@@ -1,5 +1,4 @@
 <!-- music -->
-<script>
 function play_music(){
     if ($('#mc_play').hasClass('on')){
         $('#mc_play audio').get(0).pause();
